@@ -1,4 +1,5 @@
 This is the first file created in Git
 This is the line added in local machine.
 This is the 3rd line from GitHub
-This is the forth line from Local
+this is the 4th line from GitHub merged with This is the forth line from Local
+
